@@ -1,8 +1,8 @@
 <img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg">
 <h1 align="center">Hi 👋, I'm Duc Anh</h1>
-<p align="center">
-  <h3 align="center">A AI engineer from Vietnam 🇻🇳 </h3>
-</p>
+I’m currently learning Computer Science at HUST (Hanoi University of Science and Technology.
+
+
 
   
 
